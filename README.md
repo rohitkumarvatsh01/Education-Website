@@ -1,6 +1,6 @@
 # Education-Website
 Create a responsive webpage using HTML, CSS and JavaScript.
-the main feature of this website are:
+the main feature of this website are:-
 
 <li>responsive header / navbar with toggle menu bar effect.
 <li>responsive home / hero section.
